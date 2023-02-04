@@ -9,4 +9,4 @@ public class Main {
 
         System.out.println("YYYYEYYEYEYEYEYYEYEYEYYEYEYEYYErYE");
     }
-} // nigga shymkent nakhui
+} // zdes da
