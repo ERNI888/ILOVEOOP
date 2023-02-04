@@ -7,6 +7,6 @@ public class Main {
             System.out.println(i);
         }
 
-        System.out.println("YYYYEYYEYEYEYEYYEYEYEYYEYEYEYYEYE");
+        System.out.println("YYYYEYYEYEYEYEYYEYEYEYYEYEYEYYErYE");
     }
 } // nigga shymkent nakhui
