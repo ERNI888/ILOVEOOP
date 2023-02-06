@@ -18,12 +18,13 @@ public class Main {
         System.out.println("5) KAzakhstan");
         System.out.println("6) Exit from app");
         System.out.print("Enter a number to select a function: ");
+        System.out.println("Era nigg");
         choice = scanner.nextInt();
        // while (choice != 4) {
             switch (choice) {
                 case 1:
                     try {
-                        String filePath = "C:/Users/assboobs/IdeaProjects/ILOVEOOP/src/com/files/City";
+                        String filePath = "C:/Users/Erasyl B/Desktop/ILOVEOOP/src/com/files/City";
                         FileReader reader = new FileReader(filePath);
                         BufferedReader bufferedReader = new BufferedReader(reader);
                         String line = bufferedReader.readLine();
@@ -41,7 +42,7 @@ public class Main {
                     break;
                 case 2:
                     try {
-                        String filePath = "C:/Users/assboobs/IdeaProjects/ILOVEOOP/src/com/files/City2";
+                        String filePath = "C:/Users/Erasyl B/Desktop/ILOVEOOP/src/com/files/City2";
                         FileReader reader = new FileReader(filePath);
                         BufferedReader bufferedReader = new BufferedReader(reader);
                         String line = bufferedReader.readLine();
@@ -60,7 +61,7 @@ public class Main {
 
                 case 3:
                     try {
-                        String filePath = "C:/Users/assboobs/IdeaProjects/ILOVEOOP/src/com/files/City3";
+                        String filePath = "C:/Users/Erasyl B/Desktop/ILOVEOOP/src/com/files/City3";
                         FileReader reader = new FileReader(filePath);
                         BufferedReader bufferedReader = new BufferedReader(reader);
                         String line = bufferedReader.readLine();
